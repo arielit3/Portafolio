@@ -1,0 +1,30 @@
+.contenedor-general{
+    position: static;
+    background-color: rgba(240, 248, 255, 0.667);
+    border: 1px solid #0c0b0b17;
+    border-radius: 30px;
+    width: 40vw;
+    height: auto;
+    padding: 12px;
+    margin:290px auto;
+    font-family:'Segoe UI';
+}
+.presentacion{
+    border: 1px solid #0c0b0b3e;
+    padding: 8px;
+}
+.presentacion h1{
+    font-weight: normal;
+    font-size: 30px;
+    font-style: oblique;
+    text-align: justify;
+    margin-top: -14px;
+    margin-bottom: 4px;
+}
+.presentacion p{
+    font-size: 14px;
+    font-style: italic;
+    font-weight: 200;
+    text-align: center;
+}
+

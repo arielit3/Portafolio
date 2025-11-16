@@ -3,4 +3,7 @@
 	let { children } = $props();
 </script>
 
+<style>
+	
+</style>
 {@render children()}
